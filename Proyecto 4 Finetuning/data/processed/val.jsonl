@@ -1,0 +1,12 @@
+{"instruction": "¿Cómo se puede optimizar una función recursiva?", "input": "", "output": "Usando técnicas como memoización o convirtiéndola en una versión iterativa."}
+{"instruction": "¿Por qué este enfoque es eficiente?", "input": "", "output": "Porque reduce el tamaño del problema en cada llamada."}
+{"instruction": "¿Por qué es importante que un árbol esté balanceado?", "input": "", "output": "Porque garantiza que las operaciones se realicen en tiempo eficiente."}
+{"instruction": "¿Por qué algunos algoritmos no aceptan pesos negativos?", "input": "", "output": "Porque pueden generar ciclos que rompen el cálculo correcto."}
+{"instruction": "¿Qué pasa si uso búsqueda binaria en un arreglo desordenado?", "input": "", "output": "El algoritmo no funcionará correctamente porque depende del orden de los datos."}
+{"instruction": "¿Cuándo es buena idea usar un algoritmo voraz?", "input": "", "output": "Cuando se demuestra que el enfoque produce una solución correcta."}
+{"instruction": "¿Qué operaciones básicas tiene una pila?", "input": "", "output": "Insertar (push), eliminar (pop) y consultar el elemento superior (peek)."}
+{"instruction": "¿Qué es una cola circular?", "input": "", "output": "Es una cola donde el final se conecta con el inicio para aprovechar mejor la memoria."}
+{"instruction": "¿El pensamiento algorítmico solo sirve para programar?", "input": "", "output": "No, también se usa para resolver problemas cotidianos, planear tareas y tomar decisiones estructuradas."}
+{"instruction": "¿Qué ventaja tiene un arreglo sobre una lista enlazada?", "input": "", "output": "Permite acceso directo a cualquier elemento usando un índice."}
+{"instruction": "¿Cuándo conviene usar búsqueda lineal?", "input": "", "output": "Cuando la lista es pequeña o no está ordenada, ya que no requiere ningún preprocesamiento."}
+{"instruction": "¿Qué es un grafo conexo?", "input": "", "output": "Es un grafo donde existe un camino entre cualquier par de nodos."}

@@ -1,1 +1,9 @@
 venv
+# Ignore virtual env for Proyecto 1 A Estrella
+Proyecto 1 A Estrella/env/
+
+Proyecto 2 CNN/env/
+
+proyecto 3 RAG/env/
+
+Proyecto 2 CNN/test/

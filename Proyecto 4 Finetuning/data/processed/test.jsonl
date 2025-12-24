@@ -1,0 +1,14 @@
+{"instruction": "¿Qué es un árbol en computación?", "input": "", "output": "Es una estructura de datos jerárquica formada por nodos conectados entre sí."}
+{"instruction": "¿Cuál es el peor caso de la búsqueda lineal?", "input": "", "output": "Cuando el elemento no existe o está al final de la lista."}
+{"instruction": "¿Cuál suele ser más eficiente?", "input": "", "output": "Generalmente el iterativo, porque evita el uso extra de la pila de llamadas."}
+{"instruction": "¿Vale la pena el esfuerzo de aprenderlos bien?", "input": "", "output": "Sí, porque forman la base para resolver problemas complejos en computación e ingeniería."}
+{"instruction": "¿Cuál es la diferencia entre memoización y tabulación?", "input": "", "output": "La memoización es de arriba hacia abajo y la tabulación de abajo hacia arriba."}
+{"instruction": "¿Qué pasa si nunca se cumple una condición?", "input": "", "output": "El algoritmo seguirá el camino alternativo definido o continuará sin ejecutar ese bloque."}
+{"instruction": "¿Qué ejemplos hay de estructuras lineales?", "input": "", "output": "Arreglos, listas, pilas y colas."}
+{"instruction": "¿Por qué un algoritmo debe ser finito?", "input": "", "output": "Porque debe terminar después de un número limitado de pasos; de lo contrario, no produciría una solución."}
+{"instruction": "¿Qué es programación dinámica?", "input": "", "output": "Es una técnica que resuelve problemas complejos almacenando soluciones de subproblemas para evitar cálculos repetidos."}
+{"instruction": "¿Qué es un algoritmo?", "input": "", "output": "Un algoritmo es una secuencia finita, ordenada y precisa de pasos que permiten resolver un problema o realizar una tarea específica."}
+{"instruction": "¿Cuál es la ventaja de Merge Sort?", "input": "", "output": "Tiene complejidad O(n log n) garantizada en todos los casos."}
+{"instruction": "¿Qué es la raíz de un árbol?", "input": "", "output": "Es el nodo principal desde el cual se derivan todos los demás nodos."}
+{"instruction": "¿Cuándo es buena idea usar recursión?", "input": "", "output": "Cuando el problema se divide naturalmente en subproblemas similares."}
+{"instruction": "¿Un algoritmo siempre tiene una sola solución?", "input": "", "output": "No necesariamente. Algunos algoritmos pueden producir distintas soluciones válidas dependiendo de la entrada o del enfoque utilizado."}

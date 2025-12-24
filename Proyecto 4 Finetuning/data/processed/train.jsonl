@@ -1,0 +1,102 @@
+{"instruction": "¿Por qué aprender algoritmos es difícil para muchos estudiantes?", "input": "", "output": "Porque requiere abstracción, práctica constante y cambiar la forma de pensar los problemas."}
+{"instruction": "¿Qué es un caso base?", "input": "", "output": "Es la condición que detiene la recursión y evita que la función se llame indefinidamente."}
+{"instruction": "¿Qué mide la complejidad espacial?", "input": "", "output": "Mide la cantidad de memoria adicional que un algoritmo necesita durante su ejecución."}
+{"instruction": "¿Por qué se ignoran las constantes en Big O?", "input": "", "output": "Porque Big O se enfoca en el crecimiento del algoritmo y no en detalles específicos de una máquina o lenguaje."}
+{"instruction": "¿Qué es una estructura de datos?", "input": "", "output": "Es una forma de organizar y almacenar datos para que puedan ser utilizados de manera eficiente."}
+{"instruction": "¿Qué pasa si el árbol se desbalancea?", "input": "", "output": "Las operaciones se vuelven más lentas y pueden acercarse a O(n)."}
+{"instruction": "¿Qué es un subárbol?", "input": "", "output": "Es un árbol que forma parte de otro árbol mayor."}
+{"instruction": "¿Qué son las estructuras de datos lineales?", "input": "", "output": "Son estructuras donde los elementos se organizan de forma secuencial, uno después del otro."}
+{"instruction": "¿Para qué sirven las condiciones en un algoritmo?", "input": "", "output": "Sirven para tomar decisiones y adaptar el comportamiento del algoritmo a distintas situaciones."}
+{"instruction": "¿Qué desventaja tiene Merge Sort?", "input": "", "output": "Requiere memoria adicional para combinar las listas."}
+{"instruction": "¿La búsqueda binaria siempre es mejor que la lineal?", "input": "", "output": "No siempre, para listas pequeñas la diferencia puede ser mínima."}
+{"instruction": "¿La recursión siempre es mala para el rendimiento?", "input": "", "output": "No siempre, pero puede ser menos eficiente si no se controla bien la profundidad de llamadas."}
+{"instruction": "¿Qué es un ciclo en un grafo?", "input": "", "output": "Es un camino que comienza y termina en el mismo nodo."}
+{"instruction": "¿Existe algo mejor que O(1)?", "input": "", "output": "No, O(1) es el mejor caso posible en términos de complejidad temporal."}
+{"instruction": "¿Qué operaciones básicas tiene una cola?", "input": "", "output": "Insertar (enqueue) y eliminar (dequeue)."}
+{"instruction": "¿Qué riesgo tiene la recursión profunda?", "input": "", "output": "Puede provocar desbordamiento de pila si hay demasiadas llamadas recursivas."}
+{"instruction": "¿Qué es un algoritmo voraz?", "input": "", "output": "Es un algoritmo que toma la mejor decisión local en cada paso con la esperanza de obtener una solución global óptima."}
+{"instruction": "¿Por qué son atractivos los algoritmos voraces?", "input": "", "output": "Porque suelen ser simples y rápidos de implementar."}
+{"instruction": "¿Qué es DFS?", "input": "", "output": "Es un algoritmo que explora un camino del grafo hasta el final antes de retroceder."}
+{"instruction": "¿Por qué Bubble Sort es lento?", "input": "", "output": "Porque realiza muchas comparaciones repetidas, lo que provoca una complejidad O(n²)."}
+{"instruction": "¿Qué significa que un algoritmo de ordenamiento sea estable?", "input": "", "output": "Que mantiene el orden relativo de los elementos que tienen el mismo valor."}
+{"instruction": "¿Un algoritmo puede estar mal aunque funcione?", "input": "", "output": "Sí, si es muy lento, consume demasiada memoria o no escala bien con entradas grandes."}
+{"instruction": "¿Qué es un grafo?", "input": "", "output": "Es una estructura de datos formada por nodos y aristas que representan relaciones entre elementos."}
+{"instruction": "¿Qué problema resuelven los algoritmos de caminos mínimos?", "input": "", "output": "Encuentran la ruta de menor costo entre nodos de un grafo."}
+{"instruction": "¿Qué riesgo tienen los bucles mal diseñados?", "input": "", "output": "Pueden generar bucles infinitos y hacer que el programa nunca termine."}
+{"instruction": "¿Por qué las colas siguen FIFO?", "input": "", "output": "Porque el primer elemento que entra es el primero en salir."}
+{"instruction": "¿Qué es el grado de un nodo en un grafo?", "input": "", "output": "Es el número de aristas conectadas a ese nodo."}
+{"instruction": "¿Por qué es importante el caso base?", "input": "", "output": "Porque sin él el algoritmo entraría en un ciclo infinito y fallaría."}
+{"instruction": "¿Qué significa O(n)?", "input": "", "output": "Significa que el tiempo de ejecución del algoritmo crece de manera proporcional al número de elementos de entrada."}
+{"instruction": "¿Qué es un algoritmo eficiente?", "input": "", "output": "Es aquel que resuelve un problema usando el menor tiempo y memoria posibles."}
+{"instruction": "¿Por qué es importante analizar algoritmos antes de programar?", "input": "", "output": "Porque permite elegir la mejor solución antes de invertir tiempo en implementarla."}
+{"instruction": "¿Qué es un nodo hoja?", "input": "", "output": "Es un nodo que no tiene hijos."}
+{"instruction": "¿Por qué es importante aprender algoritmos?", "input": "", "output": "Porque desarrollan el pensamiento lógico, permiten resolver problemas de manera eficiente y son la base de la computación."}
+{"instruction": "¿Por qué una lista enlazada no usa memoria contigua?", "input": "", "output": "Porque cada nodo se almacena en cualquier lugar de memoria y se conecta mediante referencias."}
+{"instruction": "¿El peor caso siempre ocurre?", "input": "", "output": "No, pero es importante conocerlo para garantizar límites de rendimiento."}
+{"instruction": "¿Por qué importa la memoria si tengo una computadora potente?", "input": "", "output": "Porque los recursos son limitados y un algoritmo ineficiente puede consumirlos rápidamente."}
+{"instruction": "¿Qué pasa si intento sacar un elemento de una pila vacía?", "input": "", "output": "Ocurre un error conocido como underflow."}
+{"instruction": "¿Por qué los árboles son útiles?", "input": "", "output": "Porque permiten representar relaciones jerárquicas de manera eficiente."}
+{"instruction": "¿Qué es un grafo ponderado?", "input": "", "output": "Es un grafo donde las aristas tienen un peso o costo asociado."}
+{"instruction": "¿Qué significa O(1)?", "input": "", "output": "Significa que el tiempo de ejecución es constante y no depende del tamaño de la entrada."}
+{"instruction": "¿Qué es un algoritmo iterativo?", "input": "", "output": "Es un algoritmo que repite instrucciones usando bucles en lugar de llamadas recursivas."}
+{"instruction": "¿Qué es la recursión?", "input": "", "output": "Es una técnica donde una función se llama a sí misma para resolver un problema dividiéndolo en subproblemas más pequeños."}
+{"instruction": "¿Qué desventaja tiene un arreglo?", "input": "", "output": "Su tamaño suele ser fijo y las inserciones o eliminaciones pueden ser costosas."}
+{"instruction": "¿Qué es BFS?", "input": "", "output": "Es un algoritmo que recorre un grafo explorando primero los nodos vecinos antes de avanzar a niveles más profundos."}
+{"instruction": "¿Qué es divide y vencerás?", "input": "", "output": "Es una estrategia que divide un problema en partes más pequeñas, las resuelve y luego combina las soluciones."}
+{"instruction": "¿Cómo puedo mejorar mi pensamiento algorítmico?", "input": "", "output": "Practicando la resolución de problemas, analizando soluciones y comparando distintos enfoques."}
+{"instruction": "¿Los algoritmos voraces siempre son incorrectos?", "input": "", "output": "No, en algunos problemas producen soluciones óptimas demostrables."}
+{"instruction": "¿Por qué se analizan mejor, peor y caso promedio?", "input": "", "output": "Porque permiten entender el comportamiento del algoritmo en diferentes escenarios."}
+{"instruction": "¿Qué es un bucle?", "input": "", "output": "Es una estructura que repite un conjunto de instrucciones mientras se cumpla una condición."}
+{"instruction": "¿Un algoritmo claro puede ser mejor que uno muy rápido?", "input": "", "output": "Sí, especialmente si la diferencia de rendimiento no es significativa."}
+{"instruction": "¿Qué pasa si un árbol no está balanceado?", "input": "", "output": "Puede comportarse como una lista y perder eficiencia."}
+{"instruction": "¿Cuál es la diferencia entre un bucle while y un for?", "input": "", "output": "El bucle for se usa cuando se conoce el número de iteraciones, y while cuando depende de una condición."}
+{"instruction": "¿Por qué las pilas siguen LIFO?", "input": "", "output": "Porque el último elemento agregado es el primero en ser retirado."}
+{"instruction": "¿Qué condiciones debe cumplir un problema para usar programación dinámica?", "input": "", "output": "Debe tener subproblemas superpuestos y una estructura óptima."}
+{"instruction": "¿Qué representa una arista?", "input": "", "output": "Una conexión o relación entre dos nodos."}
+{"instruction": "¿Por qué un algoritmo voraz puede fallar?", "input": "", "output": "Porque una decisión local óptima no siempre lleva a una solución global óptima."}
+{"instruction": "¿Por qué se analiza el peor caso?", "input": "", "output": "Porque garantiza un límite máximo del tiempo de ejecución, lo que ayuda a prever el rendimiento del algoritmo."}
+{"instruction": "¿Qué es una cola?", "input": "", "output": "Una cola es una estructura de datos que sigue el principio FIFO, donde el primer elemento agregado es el primero en salir."}
+{"instruction": "¿Qué es una pila?", "input": "", "output": "Una pila es una estructura de datos que sigue el principio LIFO, donde el último elemento agregado es el primero en salir."}
+{"instruction": "¿Iterativo y recursivo son lo mismo?", "input": "", "output": "No, ambos pueden resolver problemas similares, pero usan enfoques distintos."}
+{"instruction": "¿Qué problema resuelve la programación dinámica?", "input": "", "output": "Evita recalcular soluciones a subproblemas repetidos."}
+{"instruction": "¿Dónde se usan pilas internamente?", "input": "", "output": "En llamadas a funciones, evaluación de expresiones y deshacer acciones."}
+{"instruction": "¿Qué es Quick Sort?", "input": "", "output": "Es un algoritmo que selecciona un pivote, divide la lista en dos partes y ordena cada parte de forma recursiva."}
+{"instruction": "¿Qué es el mejor caso?", "input": "", "output": "Es la situación donde el algoritmo se ejecuta en el menor tiempo posible."}
+{"instruction": "¿Qué significa optimizar un algoritmo?", "input": "", "output": "Mejorar su eficiencia en tiempo o memoria sin perder corrección."}
+{"instruction": "¿Qué es un algoritmo de ordenamiento?", "input": "", "output": "Es un algoritmo que organiza los elementos de una lista siguiendo un criterio específico, como orden ascendente o descendente."}
+{"instruction": "¿Dónde se usan las colas en la vida real?", "input": "", "output": "En sistemas de impresión, atención al cliente y planificación de procesos."}
+{"instruction": "¿Qué representa un camino en un grafo?", "input": "", "output": "Una secuencia de nodos conectados por aristas."}
+{"instruction": "¿Qué es un componente conexo?", "input": "", "output": "Es un subconjunto de nodos donde todos están conectados entre sí."}
+{"instruction": "¿Qué es un árbol binario?", "input": "", "output": "Es un árbol donde cada nodo puede tener como máximo dos hijos."}
+{"instruction": "¿Qué estructura de datos usa BFS internamente?", "input": "", "output": "Una cola."}
+{"instruction": "¿Qué es la recursión indirecta?", "input": "", "output": "Ocurre cuando una función llama a otra que eventualmente vuelve a llamar a la primera."}
+{"instruction": "¿Qué es un arreglo?", "input": "", "output": "Un arreglo es una estructura que almacena elementos del mismo tipo en posiciones contiguas de memoria y permite acceso mediante índices."}
+{"instruction": "¿Qué es la altura de un árbol?", "input": "", "output": "Es la longitud del camino más largo desde la raíz hasta una hoja."}
+{"instruction": "¿Qué es un algoritmo determinista?", "input": "", "output": "Es un algoritmo que siempre produce el mismo resultado para la misma entrada."}
+{"instruction": "¿Cuál es la diferencia entre un algoritmo y un programa?", "input": "", "output": "Un algoritmo es la idea o procedimiento lógico, mientras que un programa es su implementación en un lenguaje de programación."}
+{"instruction": "¿Optimizar siempre significa hacerlo más rápido?", "input": "", "output": "No, a veces se optimiza para usar menos memoria o ser más claro."}
+{"instruction": "¿Qué diferencia hay entre un grafo dirigido y uno no dirigido?", "input": "", "output": "En un grafo dirigido las conexiones tienen dirección, mientras que en uno no dirigido no."}
+{"instruction": "¿Qué es Bubble Sort?", "input": "", "output": "Es un algoritmo de ordenamiento que compara elementos adyacentes e intercambia sus posiciones si están en el orden incorrecto."}
+{"instruction": "¿Por qué la búsqueda binaria es más rápida?", "input": "", "output": "Porque reduce el espacio de búsqueda a la mitad en cada paso, logrando una complejidad O(log n)."}
+{"instruction": "¿Cómo se evalúa la calidad de un algoritmo?", "input": "", "output": "Analizando su corrección, eficiencia, claridad y escalabilidad."}
+{"instruction": "¿Qué es la búsqueda binaria?", "input": "", "output": "Es un algoritmo que divide repetidamente un arreglo ordenado en mitades para localizar un elemento de forma eficiente."}
+{"instruction": "¿Qué es un camino simple?", "input": "", "output": "Es un camino que no repite nodos."}
+{"instruction": "¿Qué propiedad cumple un árbol binario de búsqueda?", "input": "", "output": "Que los valores menores van al subárbol izquierdo y los mayores al derecho."}
+{"instruction": "¿Qué es el grado de un nodo?", "input": "", "output": "Es el número de hijos que tiene un nodo."}
+{"instruction": "¿Qué problemas usan divide y vencerás?", "input": "", "output": "Ordenamiento, búsqueda y multiplicación eficiente."}
+{"instruction": "¿Qué características debe tener un buen algoritmo?", "input": "", "output": "Debe ser finito, preciso, definido y producir un resultado correcto para cada entrada válida."}
+{"instruction": "¿Qué es el pensamiento algorítmico?", "input": "", "output": "Es la habilidad de descomponer un problema en pasos claros y ordenados que pueden ejecutarse de manera sistemática."}
+{"instruction": "¿Cuál es la diferencia entre un arreglo y una lista enlazada?", "input": "", "output": "Un arreglo usa memoria contigua y permite acceso rápido por índice, mientras que una lista enlazada usa nodos conectados y facilita inserciones y eliminaciones."}
+{"instruction": "¿Qué es un árbol balanceado?", "input": "", "output": "Es un árbol donde la altura de los subárboles no difiere demasiado."}
+{"instruction": "¿En qué casos se usa una pila?", "input": "", "output": "Se usa en llamadas a funciones, evaluación de expresiones y algoritmos de retroceso."}
+{"instruction": "¿Qué estructura de datos usa DFS internamente?", "input": "", "output": "Una pila o recursión."}
+{"instruction": "¿Quick Sort siempre es rápido?", "input": "", "output": "No siempre; en el peor caso puede ser O(n²), pero en promedio es muy eficiente."}
+{"instruction": "¿Qué es una estructura condicional?", "input": "", "output": "Es una estructura que permite ejecutar diferentes instrucciones dependiendo de si una condición se cumple o no."}
+{"instruction": "¿Cuándo conviene usar BFS?", "input": "", "output": "Cuando se busca la ruta más corta en grafos no ponderados."}
+{"instruction": "¿Los algoritmos solo se usan en programación?", "input": "", "output": "No, también se aplican en matemáticas, ciencia de datos, inteligencia artificial y en la vida diaria."}
+{"instruction": "¿Los algoritmos cambian con el lenguaje de programación?", "input": "", "output": "No, el algoritmo es independiente del lenguaje, aunque su implementación sí puede variar."}
+{"instruction": "¿Todos los problemas recursivos pueden resolverse de forma iterativa?", "input": "", "output": "Sí, aunque a veces la solución iterativa es más compleja de implementar."}
+{"instruction": "¿Qué es la búsqueda lineal?", "input": "", "output": "Es un algoritmo que revisa los elementos de una lista uno por uno hasta encontrar el valor buscado o terminar la lista."}
+{"instruction": "¿Qué es estructura óptima?", "input": "", "output": "Significa que la solución óptima del problema depende de soluciones óptimas de subproblemas."}
+{"instruction": "¿Qué representa la notación Big O?", "input": "", "output": "Big O describe el comportamiento de un algoritmo en el peor de los casos, ignorando constantes y detalles menores."}
+{"instruction": "¿Qué es la complejidad temporal?", "input": "", "output": "La complejidad temporal indica cómo crece el tiempo de ejecución de un algoritmo conforme aumenta el tamaño de la entrada."}
