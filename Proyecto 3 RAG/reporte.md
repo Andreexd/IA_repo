@@ -9,7 +9,7 @@ Además, datos fueron extraídos de diversas fuentes en internet para la recolec
 
 ## USO DEL SISTEMA RAG
 
-![Configuración de AnythingLLM](imagenes/ConfigAnythingllm.png)
+![Configuración de AnythingLLM](ConfigAnythingllm.png)
 
 ### ¿Qué es RAG?
 
@@ -28,9 +28,9 @@ Para la práctica se utilizó la herramienta AnythingLLM, configurada con un mod
 
 ### Ejemplos de Uso
 
-![Ejemplo de pregunta 1](imagenes/pregunta.png)
+![Ejemplo de pregunta 1](pregunta.png)
 
-![Ejemplo de pregunta 2](imagenes/pregunta1.png)
+![Ejemplo de pregunta 2](pregunta1.png)
 
 ---
 
